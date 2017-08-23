@@ -1,0 +1,8 @@
+c:\users\ueslei_de_souza\documents\visual studio 2017\Projects\Matrix\Matrix\bin\Debug\netcoreapp1.1\Matrix.deps.json
+c:\users\ueslei_de_souza\documents\visual studio 2017\Projects\Matrix\Matrix\bin\Debug\netcoreapp1.1\Matrix.runtimeconfig.json
+c:\users\ueslei_de_souza\documents\visual studio 2017\Projects\Matrix\Matrix\bin\Debug\netcoreapp1.1\Matrix.runtimeconfig.dev.json
+c:\users\ueslei_de_souza\documents\visual studio 2017\Projects\Matrix\Matrix\bin\Debug\netcoreapp1.1\Matrix.dll
+c:\users\ueslei_de_souza\documents\visual studio 2017\Projects\Matrix\Matrix\bin\Debug\netcoreapp1.1\Matrix.pdb
+c:\users\ueslei_de_souza\documents\visual studio 2017\Projects\Matrix\Matrix\obj\Debug\netcoreapp1.1\Matrix.AssemblyInfo.cs
+c:\users\ueslei_de_souza\documents\visual studio 2017\Projects\Matrix\Matrix\obj\Debug\netcoreapp1.1\Matrix.dll
+c:\users\ueslei_de_souza\documents\visual studio 2017\Projects\Matrix\Matrix\obj\Debug\netcoreapp1.1\Matrix.pdb
